@@ -8,7 +8,7 @@ The method is proposed in the paper:
     Chaoyue Liu, Mikhail Belkin. Accelerating Stochastic Training for Over-parametrized Learning, Arxiv: 1810.13395.
 
 
-Please find detailed algorithms description in the paper.
+Please find detailed algorithm description in the paper.
 
 ## Requirement
     Python: >= 3.5.2
@@ -24,4 +24,4 @@ or (specify CUDA device)
 
     $ CUDA_VISIBLE_DEVICES=0 python3 train.py
     
-Our experiment achieves on average about 92.8% classification accuracy on the test set of CIFAR-10.
+Our experiment achieves on average 92.8% classification accuracy on the test set of CIFAR-10.
