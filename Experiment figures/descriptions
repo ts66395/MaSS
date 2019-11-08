@@ -1,0 +1,1 @@
+This folder (Experiment figures/) includes figures that compare MaSS with SGD, Nesterov SGD and Adam on real tasks (fully-connected neural network, CNN, kernel regression). 
